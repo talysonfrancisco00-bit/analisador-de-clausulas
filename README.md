@@ -18,12 +18,12 @@ Contratos são difíceis de ler para quem não é da área. A ideia surgiu da pe
   e modo escuro
 
 ## Como testei
-Testei o app com 10 trechos: [3] simples, [4] médios, [3] com cláusula
+Testei o app com 10 trechos: 2 simples, 3 médios, 3 com cláusula
 problemática e 2 casos difíceis (trecho que depende de outra cláusula,
 lei inventada, texto vago, texto misto em português e inglês).
 
 Resultado, na minha avaliação como estudante de Direito:
-- 8 de 10 respostas coerentes
+- 9 de 10 respostas coerentes
 - Lei inventada: o app sinalizou o trecho como uma possível lei
   inexistente
 - **Falha encontrada:** em um trecho misturando português e inglês, o
