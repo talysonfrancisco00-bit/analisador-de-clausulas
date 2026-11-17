@@ -1,0 +1,6 @@
+{
+  "name": "Analisador de Cláusulas",
+  "description": "Analise trechos de contratos em segundos com resumo em linguagem simples, pontos de atenção, nível de risco e exportação em PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
