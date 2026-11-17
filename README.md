@@ -19,8 +19,7 @@ Contratos são difíceis de ler para quem não é da área. A ideia surgiu da pe
 
 ## Como testei
 Testei o app com 10 trechos: 2 simples, 3 médios, 3 com cláusula
-problemática e 2 casos difíceis (trecho que depende de outra cláusula,
-lei inventada, texto vago, texto misto em português e inglês).
+problemática e 2 casos difíceis (texto vago, texto misto em português e inglês).
 
 Resultado, na minha avaliação como estudante de Direito:
 - 9 de 10 respostas coerentes
